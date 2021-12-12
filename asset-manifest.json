@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CovTracker/static/css/main.b492bc16.chunk.css",
+    "main.js": "/CovTracker/static/js/main.a7a32511.chunk.js",
+    "main.js.map": "/CovTracker/static/js/main.a7a32511.chunk.js.map",
+    "runtime-main.js": "/CovTracker/static/js/runtime-main.eae2f292.js",
+    "runtime-main.js.map": "/CovTracker/static/js/runtime-main.eae2f292.js.map",
+    "static/js/2.6ff2629b.chunk.js": "/CovTracker/static/js/2.6ff2629b.chunk.js",
+    "static/js/2.6ff2629b.chunk.js.map": "/CovTracker/static/js/2.6ff2629b.chunk.js.map",
+    "index.html": "/CovTracker/index.html",
+    "static/css/main.b492bc16.chunk.css.map": "/CovTracker/static/css/main.b492bc16.chunk.css.map",
+    "static/js/2.6ff2629b.chunk.js.LICENSE.txt": "/CovTracker/static/js/2.6ff2629b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eae2f292.js",
+    "static/js/2.6ff2629b.chunk.js",
+    "static/css/main.b492bc16.chunk.css",
+    "static/js/main.a7a32511.chunk.js"
+  ]
+}
