@@ -53,7 +53,7 @@ setSearch((txt).charAt(0).toUpperCase() + txt.substr(1).toLowerCase())
 // const lastUpdated = date.toString();
 
 const filterCountry = countries.filter(item=>{
-  return search!==''? item.country===search : item
+  return search!==''? item.country.includes(search) : item
 })
 console.log(filterCountry)
   return (

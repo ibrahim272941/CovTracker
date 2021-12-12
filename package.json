@@ -1,4 +1,5 @@
 {
+  "homepage": "https://ibrahim272941.github.io/CovTracker",
   "name": "barcode",
   "version": "0.1.0",
   "private": true,
@@ -17,6 +18,8 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -41,6 +44,7 @@
     ]
   },
   "devDependencies": {
-    "flag-icon-css": "^4.1.6"
+    "flag-icon-css": "^4.1.6",
+    "gh-pages": "^3.2.3"
   }
 }
